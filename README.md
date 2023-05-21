@@ -1,7 +1,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -15,31 +15,7 @@
 <style type="text/css"></style></head><body class="spa -report standard">
   <div class="app">
     <div class="layout">
-<div class="header navbar">
-<div class="vheader">
-<div class="nav-logo">
-<a href="#">
-<div class="logo" style="background-image: url('https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png')"></div>
-</a>
-</div>
-<ul class="nav-left">
-<li class="search-box">
-<a class="search-toggle" href="#">
-<i class="search-icon fa fa-search"></i>
-<i class="search-icon-close fa fa-close"></i>
-</a>
-</li>
-<li class="search-input"><input id="search-tests" class="form-control" type="text" placeholder="Search..."></li>
-</ul>
-<ul class="nav-right">
-<li class="m-r-10">
-<a href="#"><span class="badge badge-primary"></span></a>
-</li>
-<li class="m-r-10">
-<a href="#"><span class="badge badge-primary">May 21, 2023 12:03:06 AM</span></a>
-</li>
-</ul>
-</div>
+
 </div><div class="side-nav">
 <div class="side-nav-inner">
 <ul class="side-nav-menu">
